@@ -14,7 +14,7 @@ This project deploys the catalog application to a linux server which is secured 
 - postgresql
 - git
 
-Note: Packages are updated to most recent versions by running
+Note: Packages are updated to the most recent versions by running
 ```sh
 sudo apt-get update
 sudo apt-get upgrade
