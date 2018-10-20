@@ -13,6 +13,7 @@ This project deploys the catalog application to a linux server which is secured 
 - libapache2-mod-wsgi-py3
 - postgresql
 - git
+
 Note: Packages are updated to most recent versions by running
 ```sh
 sudo apt-get update
